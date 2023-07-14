@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy desarrollador Front-End formándome actualmente en Back-End, siempre en busca de nuevas herramientas para desempeñarme mejor en mis tareas.
+I'm a FullStack developer in constant training, passionate about knowledge, always looking for new technologies to improve my work performance. Soon I will start studying developing mobile applications.
 
 
 ## 🌐 Socials:
